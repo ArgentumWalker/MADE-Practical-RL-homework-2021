@@ -1,7 +1,6 @@
 import random
 import numpy as np
 import os
-from .train import transform_state
 import torch
 
 
